@@ -62,7 +62,7 @@ end
 <%= hydration('postMeta', @post_meta) %>
 ```
 
-In your Javascript, use the `Hydration.onReady` function the same way you would use jQuery's `$(document).on('ready'). Your hydration data will be passed to your callback as the first argument:
+In your Javascript, use the `Hydration.onReady` function the same way you would use jQuery's `$(document).on('ready')`. Your hydration data will be passed to your callback as the first argument:
 
 ```js
 // app/assets/javascripts/posts.js
