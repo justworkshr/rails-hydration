@@ -2,6 +2,8 @@
 
 Pass data from Ruby to Javascript without writing JS in your .erb view files.
 
+[![Code Climate](https://codeclimate.com/github/hackley/rails-hydration/badges/gpa.svg)](https://codeclimate.com/github/hackley/rails-hydration)
+
 ### The Problem
 
 When trying to pass data from Ruby to Javascript we end up doing something like:
