@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    Rails Hydration (0.0.1)
+    Rails Hydration (0.1.0)
       rails (~> 3.2.21)
 
 GEM
