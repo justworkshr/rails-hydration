@@ -2,6 +2,7 @@
 
 Pass data from Ruby to Javascript without writing JS in your .erb view files.
 
+[![Gem Version](https://badge.fury.io/rb/rails_hydration.svg)](http://badge.fury.io/rb/rails_hydration)
 [![Code Climate](https://codeclimate.com/github/hackley/rails-hydration/badges/gpa.svg)](https://codeclimate.com/github/hackley/rails-hydration)
 
 ### The Problem
